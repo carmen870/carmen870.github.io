@@ -12,10 +12,11 @@ Cuenta con 452 habitaciones y Suites. Algunas de las actividades y servicios que
 - Campo de Golf (a menos de 3 km)
     - Cenas temáticas, Espectáculos en directo, Discoteca D/J.
     - y muchas más cosas.
+
 <http://www.grandhoteldjibloho.com/es>
 > Estás en el medio de la selva y no necesitas nada más.
 
 Además, cuentan con 2 o 3 mascotas.
 ![texto alternativo](20170709_091641.jpg)
-`Espero volver algun día.`
+`¡Espero volver algun día.!`
 
