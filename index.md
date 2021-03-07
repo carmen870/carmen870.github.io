@@ -18,5 +18,5 @@ Cuenta con 452 habitaciones y Suites. Algunas de las actividades y servicios que
 
 Además, cuentan con 2 o 3 mascotas.
 ![texto alternativo](20170709_091641.jpg)
-`¡Espero volver algun día.!`
+`¡Espero volver algun día!`
 
