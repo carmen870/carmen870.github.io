@@ -22,10 +22,7 @@ Además, cuentan con 2 o 3 mascotas, que son unos monos muy simpáticos:
 ```python
 print "¡Espero volver algún día!"
 ```
-[Referencias](referencias.md "Pasos para cultivar la piña en maceta")
-
-
-
+[Referencias](referencias.md "Pasos para cultivar la piña en maceta"
 
 
 
