@@ -19,6 +19,6 @@ De este tallo, aparecerá la nueva piña.
 9. La piña ha de cosecharse cuando esté en su punto, cuando el color de la base de la piña cambie de verde a amarillo. La planta muere después de dar el fruto, quedando los hijos que van saliendo sucesivamente.
 
 ``` bash
-#!bin/bash
+#!/bin/bash
 echo "¿Que os parece?, sencillo ¿verdad?"
 ```
