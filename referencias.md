@@ -8,6 +8,7 @@
 4. Después, hay que **regarla una vez** y colocarla **junto a una ventana** para que le de la luz exterior. Además, hay que tener en cuenta que no soporta bien las bajas temperaturas.
 Un pequeño truco para solucionar el frío en invierno:***Se le puede hacer un pequeño invernadero para mantener una temepratura cálida de una manera sencilla, colocando un pequeño plástico alrededor.***
 ![Piña en maceta](IMG-20200830-WA0003.jpg)
+
 5. Una vez pasadas dos o tres semanas, las hojas del centro comenzarán a crecer; señal de que la planta a comenzado a tener ríces.
 ***La temperatura nunca debe bajar de 15º***
 6. La mata de la piña irá creciendo poco a poco llegando a lograr una mata muy grande, y después saliendo un **tallo del centro.** De este tallo, aparecerá la nueva piña.
