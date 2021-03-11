@@ -7,6 +7,7 @@
 3. La maceta se prepara con una mezcla dos partes de tierra fértil con una parte de arerna blanca. Añade algunas piedras pequeñas a la mezcla con el fin de fomentar un buen drenaje ya que esta planta no le va bien el exceso de agua.
 4. Después, hay que **regarla una vez** y colocarla **junto a una ventana** para que le de la luz exterior. Además, hay que tener en cuenta que no soporta bien las bajas temperaturas.
 Un pequeño truco para solucionar el frio en invierno ***Se le puedde hacer un pequeño invernadero para mantener una temperatura cálida de una manera sencilla, colocando un pequeño plástico alrededor.***
+
 ![Piña en maceta](IMG-20200830-WA0003.jpg)
 
 5. Una vez pasadas dos o tres semanas, las hojas del centro comenzarán a crecer; señal de que la planta a comenzado a tener raices.
